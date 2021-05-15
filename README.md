@@ -1,8 +1,7 @@
 # otivisan
 My personal repository
+[![My Site!](/lofoten.jpg)](https://otivisan22.github.io/updated_portofolio/)
 ### Hi there 👋
-
-### Link to my portofolio https://otivisan22.github.io/updated_portofolio/
 
 
 - 👩‍💻 I am currently on my journey to become a Full Stack Developer at a Coding Bootcamp at Uni of Birmingham
