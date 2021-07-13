@@ -1,6 +1,7 @@
 # otivisan
 My personal repository
-[![My Site!](/lofoten.jpg)](https://otivisan22.github.io/updated_portofolio/)
+![image](https://user-images.githubusercontent.com/71434012/125532215-f86da887-99de-47e5-8ca4-593300a6351d.png)
+
 ### Hi there 👋
 
 
