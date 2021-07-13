@@ -1,8 +1,12 @@
 # otivisan
-My personal repository
-![image](https://user-images.githubusercontent.com/71434012/125532215-f86da887-99de-47e5-8ca4-593300a6351d.png)
+
+My iOS App
+
 
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/71434012/125532957-b9a23b0d-821c-4361-9dbd-1e7831f2b1ea.png)
+
+
 
 
 - 👩‍💻 I am currently on my journey to become a Full Stack Developer at a Coding Bootcamp at Uni of Birmingham
