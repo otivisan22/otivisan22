@@ -4,7 +4,6 @@ My iOS App
 
 
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/71434012/125532957-b9a23b0d-821c-4361-9dbd-1e7831f2b1ea.png)
 
 
 
